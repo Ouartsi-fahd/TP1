@@ -10,15 +10,5 @@ class CalculatorTest {
         assertEquals(5 , Calculator.add(2,3));
     }
 
-    @Test
-    void subtract() {
-    }
 
-    @Test
-    void multiply() {
-    }
-
-    @Test
-    void divide() {
-    }
 }
